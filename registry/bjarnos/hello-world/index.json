@@ -20,6 +20,13 @@
       "published_at": "2026-03-16T13:03:58Z",
       "description": "An example package!",
       "realm": "shared"
+    },
+    "1.0.2": {
+      "commit": "b8c2087689d7cb2908c8adfa8454f2ce39875093",
+      "download_url": "https://polly.bjarnos.dev/api/v1/packages/bjarnos/hello-world/1.0.2/download",
+      "published_at": "2026-03-16T13:04:42Z",
+      "description": "An example package!",
+      "realm": "shared"
     }
   }
 }
