@@ -2,6 +2,7 @@
   "name": "bjarnos/hello-world",
   "owner": "bjarnos",
   "package": "hello-world",
+  "description": "An example package!",
   "content_root": "src",
   "readme": "README.md",
   "license_file": "LICENSE.txt",
@@ -10,6 +11,13 @@
       "commit": "9447ebda489fb104e321904f460859063ca6f47f",
       "download_url": "https://polly.bjarnos.dev/api/v1/packages/bjarnos/hello-world/1.0.0/download",
       "published_at": "2026-03-14T10:08:56Z",
+      "description": "An example package!",
+      "realm": "shared"
+    },
+    "1.0.1": {
+      "commit": "11250e19a3a91299bfd36fec81ce4f26c20d2f63",
+      "download_url": "https://polly.bjarnos.dev/api/v1/packages/bjarnos/hello-world/1.0.1/download",
+      "published_at": "2026-03-16T13:03:58Z",
       "description": "An example package!",
       "realm": "shared"
     }
